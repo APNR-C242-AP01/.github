@@ -13,13 +13,12 @@
 - [Project Structure](#project-structure)
 - [Team Members](#team-members)
 - [Contributing](#contributing)
-- [License](#license)
 
-## 🚗 Project Overview
+## Introduction
 
 The **Automatic Number Plate Recognition (APNR)** system is an advanced solution for intelligent vehicle license plate detection and recognition. By leveraging cutting-edge technologies like **YOLO** and **PaddleOCR**, our project offers a robust, scalable approach to automatic license plate identification.
 
-## 🌟 Key Features
+## Features
 
 - **🔍 Advanced Detection**: Utilizes YOLO for precise license plate localization
 - **📝 Accurate OCR**: Implements PaddleOCR for high-precision text extraction
@@ -27,7 +26,7 @@ The **Automatic Number Plate Recognition (APNR)** system is an advanced solution
 - **☁️ Cloud-Ready**: Seamless deployment on Google Cloud VPS
 - **📊 Flexible Scalability**: Adaptable to various image resolutions and environments
 
-## 🛠 Technical Stack
+## Requirements
 
 - **Language**: Python 3.8+
 - **Object Detection**: YOLO v11n
@@ -44,7 +43,7 @@ Ensure you have the following installed:
 - pip package manager
 - Git
 
-## 🚀 Installation & Setup
+## Installation
 
 ### 1. Clone the Repository
 ```bash
@@ -65,7 +64,7 @@ cd src/app/python
 pip install -r requirements.txt
 ```
 
-## 🖥️ Running the Application
+## Usage
 
 ### Detection Module
 ```bash
@@ -83,7 +82,7 @@ npm run dev
 gsutil cors set cors-config.json gs://<your-bucket-name>
 ```
 
-## 👥 Project Team
+## 👥 Team Members
 
 ### Cloud Computing Track
 - **Eric Vincent Kho** (C239B4KY1270)
@@ -95,7 +94,7 @@ gsutil cors set cors-config.json gs://<your-bucket-name>
 - **Sofia Maulida** (M279B4KY4190)
 - **Anjas Rani** (M144B4KY0567)
 
-## 🤝 How to Contribute
+## Contributing
 
 We welcome contributions! Here's how you can help:
 

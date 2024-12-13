@@ -20,11 +20,10 @@ The **Automatic Number Plate Recognition (APNR)** system is an advanced solution
 
 ## Features
 
-- **🔍 Advanced Detection**: Utilizes YOLO for precise license plate localization
-- **📝 Accurate OCR**: Implements PaddleOCR for high-precision text extraction
-- **⚡ Real-Time Processing**: Capable of processing images and video streams instantly
-- **☁️ Cloud-Ready**: Seamless deployment on Google Cloud VPS
-- **📊 Flexible Scalability**: Adaptable to various image resolutions and environments
+- Accurate Detection: Data analysis with high accuracy levels thanks to the latest AI technology.
+- Easy Upload: Supports various photo and video formats for your flexibility.
+- Free Daily Limit: Access up to 10 uploads per day for free.
+- Data Security: You can manage your data securely and comfortably. to various image resolutions and environments
 
 ## Requirements
 
@@ -36,7 +35,7 @@ The **Automatic Number Plate Recognition (APNR)** system is an advanced solution
   - PyTorch
   - NumPy
 
-## 📋 Prerequisites
+## Prerequisites
 
 Ensure you have the following installed:
 - Python 3.8 or higher
@@ -82,7 +81,7 @@ npm run dev
 gsutil cors set cors-config.json gs://<your-bucket-name>
 ```
 
-## 👥 Team Members
+## Team Members
 
 ### Cloud Computing Track
 - **Eric Vincent Kho** (C239B4KY1270)
@@ -98,22 +97,22 @@ gsutil cors set cors-config.json gs://<your-bucket-name>
 
 We welcome contributions! Here's how you can help:
 
-1. 🍴 Fork the repository
-2. 🌿 Create a feature branch
+1. Fork the repository
+2. Create a feature branch
    ```bash
    git checkout -b feature/your-feature-name
    ```
-3. 🔧 Commit your changes
+3. Commit your changes
    ```bash
    git commit -m 'Add some amazing feature'
    ```
-4. 🚀 Push to the branch
+4. Push to the branch
    ```bash
    git push origin feature/your-feature-name
    ```
-5. 📬 Open a Pull Request
+5. Open a Pull Request
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [YOLO](https://github.com/ultralytics/) for state-of-the-art object detection
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) for powerful text recognition

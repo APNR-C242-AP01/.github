@@ -1,11 +1,8 @@
 # Automatic Number Plate Recognition (APNR)
 
-![GAMBAR](https://github.com/APNR-C242-AP01/.github/blob/main/img/188851772.png)
-
-## Table of Contents
-# Automatic Number Plate Recognition (APNR)
-
-![APNR Logo](path/to/logo.png) <!-- Optional: Tambahkan logo proyek jika ada -->
+<p align="center">
+  <img src="https://github.com/APNR-C242-AP01/.github/blob/main/img/188851772.png" alt="APNR Logo" />
+</p>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -15,12 +12,6 @@
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Team Members](#team-members)
-  - [Eric Vincent Kho](#eric-vincent-kho)
-  - [Hanif Al Falih](#hanif-al-falih)
-  - [Muhammad Syafiq Ibrahim](#muhammad-syafiq-ibrahim)
-  - [Alvin Giovanni](#alvin-giovanni)
-  - [Sofia Maulida](#sofia-maulida)
-  - [Anjas Rani](#anjas-rani)
 - [Contributing](#contributing)
 - [License](#license)
 
